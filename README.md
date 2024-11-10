@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📑 현재 SK Networks Family AI 캠프 2기 교육 중에 있습니다.
-🏢 이전에는 SI 회사에서 백엔드 개발자로 1년 1개월 동안 근무했었습니다.
-😎 JAVA, Python, Vue.js와 다양한 RDBMS(Oracle, PostgreSQL, MySql, MongoDB)를 다룰 수 있습니다!
-🙌 새로운 언어 또는 기술을 배우는 데에 거침없으며, 팀원들과 소통하며 프로젝트 하는 것이 즐겁습니다!
+📑 현재 SK Networks Family AI 캠프 2기 교육 중에 있습니다.\n
+🏢 이전에는 SI 회사에서 백엔드 개발자로 1년 1개월 동안 근무했었습니다.\n
+😎 JAVA, Python, Vue.js와 다양한 RDBMS(Oracle, PostgreSQL, MySql, MongoDB)를 다룰 수 있습니다!\n
+🙌 새로운 언어 또는 기술을 배우는 데에 거침없으며, 팀원들과 소통하며 프로젝트 하는 것이 즐겁습니다!\n
 🏃‍♀️ 매일매일 어제보다 더 나은 개발자가 되기 위해 열심히 노력중입니다!
